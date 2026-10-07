@@ -18,3 +18,7 @@ This exercise uses two accounts owned by the same person: @arieldaniely and @ari
 - [Merging a pull request](https://docs.github.com/en/pull-requests/merging-a-pull-request)
 
 GitHub controls achievement processing; a completed exercise does not guarantee an immediate badge update.
+
+## Verify account attribution
+
+Open the commit on GitHub and confirm that both account names link to the expected profiles. Keep the co-author trailer in the merged history. This exercise can be repeated with the account roles reversed so that each account has an explicit co-author attribution.
